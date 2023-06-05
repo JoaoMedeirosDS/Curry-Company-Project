@@ -160,7 +160,7 @@ st.header('Marketplace - Visao Restaurantes')
 
 # image_path = 'C:/Users/WCC/OneDrive/Documentos/repos/programacao_python/Logo.PNG'
 
-image= Image.open('Logo2.PNG')
+image= Image.open('Logo2.png')
 st.sidebar.image(image, width=120)
 
 st.sidebar.markdown('# Curry Company')
