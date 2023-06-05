@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 # image_path = '/Users/WCC/OneDrive/Documentos/repos/programacao_python/'
-image = Image.open('Logo2.PNG' )
+image = Image.open('Logo2.png' )
 st.sidebar.image( image, width = 120 )
 
 st.sidebar.markdown('# Curry Company')
